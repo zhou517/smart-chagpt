@@ -1,4 +1,4 @@
-# smart-chagpt1
+# smart-chagpt
 import requests
 import json
 
